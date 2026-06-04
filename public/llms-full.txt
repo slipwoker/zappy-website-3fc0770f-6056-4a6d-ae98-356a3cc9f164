@@ -2,13 +2,13 @@
 
 Victory is a well-known Israeli supermarket chain looking to expand into the B2B daily office supply market. The mini-site is designed to attract businesses, factories, and institutions to order everyday supermarket products (groceries, snacks, beverages, office kitchen essentials) on a recurring daily basis directly from Victory. The brand positioning focuses on convenience, reliability, and the familiarity of a trusted retail chain now serving the workplace.
 
-Source: https://-3fc0770f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## האספקה היומית למשרד מתחילה כאן — ויקטורי
 
-URL: https://-3fc0770f.zappy5.app
+URL: https://example.com
 Description: ויקטורי מביאה את הסופר המוכר ישירות למשרד שלכם. הזמינו מצרכים, חטיפים, שתייה ומוצרי מטבח למשרד על בסיס יומיומי, באמינות וללא טרחה. הצטרפו למהפכת הנוחות העסקית עוד היום.
 
 האספקה היומית למשרד מתחילה כאן — ויקטורי
@@ -644,7 +644,7 @@ Description: ויקטורי מביאה את הסופר המוכר ישירות �
 
 ## מדיניות פרטיות
 
-URL: https://-3fc0770f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -910,7 +910,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-3fc0770f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1185,7 +1185,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-3fc0770f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
