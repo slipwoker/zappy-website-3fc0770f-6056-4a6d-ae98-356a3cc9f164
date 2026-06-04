@@ -1,0 +1,67 @@
+# ויקטורי — Generative Engine Optimization Map
+
+> Victory is a well-known Israeli supermarket chain looking to expand into the B2B daily office supply market. The mini-site is designed to attract businesses, factories, and institutions to order everyday supermarket products (groceries, snacks, beverages, office kitchen essentials) on a recurring daily basis directly from Victory. The brand positioning focuses on convenience, reliability, and the familiarity of a trusted retail chain now serving the workplace.
+
+---
+
+## Pages
+
+### בית
+https://-3fc0770f.zappy5.app
+ויקטורי מביאה את הסופר המוכר ישירות למשרד שלכם. הזמינו מצרכים, חטיפים, שתייה ומוצרי מטבח למשרד על בסיס יומיומי, באמינות וללא טרחה. הצטרפו למהפכת הנוחות העסקית עוד היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3fc0770f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3fc0770f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3fc0770f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3fc0770f.zappy5.app
+- Endpoint: https://-3fc0770f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ויקטורי
+Victory is a well-known Israeli supermarket chain looking to expand into the B2B daily office supply market. The mini-site is designed to attract businesses, factories, and institutions to order everyday supermarket products (groceries, snacks, beverages, office kitchen essentials) on a recurring daily basis directly from Victory. The brand positioning focuses on convenience, reliability, and the familiarity of a trusted retail chain now serving the workplace.
+
+## Target Audience
+- משרדים, מפעלים, מוסדות ועסקים המעוניינים להזמין מוצרי סופר באופן יומיומי
+- קניינים במשרדים ובחברות
+- מנהלי מפעלים
+- קניינים במוסדות חינוך ובריאות
+
+## Industry
+Retail / Grocery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3fc0770f.zappy5.app/sitemap.xml
+- Robots: https://-3fc0770f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3fc0770f.zappy5.app/llms-full.txt
